@@ -1,7 +1,7 @@
 # My Lung
 Inteligencia artificial que detecta se uma radiografia do tórax apresenta pneumonia, não sendo necessário um olho clinico. Foi efetuado 110 epochs e 16 batch size para treinamento do modelo, foi utilizado para treinamento e classificação o teachablemachine.O modelo foi treinado com 1.000 imagens de radiografia que atestaram positivo para pneumonia e 1.000 que atestaram negativo...
  
- <img  src="https://github.com/alessandroprudencio/My-Lung/blob/master/preview_system.gif" />
+ <img width="790"  src="https://github.com/alessandroprudencio/My-Lung/blob/master/preview_system.gif" />
 
 ## Vamos começar!
 
