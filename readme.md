@@ -1,7 +1,7 @@
 # My Lung
 Inteligencia artifical que  detecta se uma radiografia do torax apresenta penumonia, não sendo necessario um olho clinico. Foi efetuado 110 epochs e 16 batch size para treinamento do modelo, foi utilizado para treinamento e classificação o teachablemachine.O modelo foi treinado com  1.000 imagens de radriografia que atestaram positivo para pneumonia e 1.000 que atestaram negativo...
  
- <!-- <img  src="https://github.com/alessandroprudencio/Localizar-Veiculo/blob/master/assets/screenshots/print.png" /> -->
+ <img  src="https://github.com/alessandroprudencio/My-Lung/blob/master/preview_system.gif" />
 
 ## Vamos começar!
 
@@ -23,11 +23,11 @@ gatsby-cli
 ### Instalação
 
 ```
-git clone https://github.com/alessandroprudencio/Localizar-Veiculo.git
+git clone https://github.com/alessandroprudencio/My-Lung.git
 ```
 
 ```
-cd Localizar-Veiculo 
+cd My-Lung 
 ```
 
 ```
