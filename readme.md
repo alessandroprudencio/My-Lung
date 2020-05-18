@@ -51,7 +51,7 @@ Na raiz do projeto encontra se um diretório tests, dentro dela existem outros d
 * [Node JS](https://nodejs.org/)
 * [Styled Components](https://styled-components.com/)
 * [Firebase](https://firebase.google.com/)
-* [TesnforflowJs](https://www.tensorflow.org/js)
+* [TensorflowJs](https://www.tensorflow.org/js)
 * [ML5](https://ml5js.org/)
 
 ## Contribuição
