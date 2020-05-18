@@ -1,5 +1,5 @@
 # My Lung
-Inteligencia artifical que  detecta se uma radiografia do torax apresenta penumonia, não sendo necessario um olho clinico. Foi efetuado 110 epochs e 16 batch size para treinamento do modelo, foi utilizado para treinamento e classificação o teachablemachine.O modelo foi treinado com  1.000 imagens de radriografia que atestaram positivo para pneumonia e 1.000 que atestaram negativo...
+Inteligencia artificial que detecta se uma radiografia do tórax apresenta pneumonia, não sendo necessário um olho clinico. Foi efetuado 110 epochs e 16 batch size para treinamento do modelo, foi utilizado para treinamento e classificação o teachablemachine.O modelo foi treinado com 1.000 imagens de radiografia que atestaram positivo para pneumonia e 1.000 que atestaram negativo...
  
  <img  src="https://github.com/alessandroprudencio/My-Lung/blob/master/preview_system.gif" />
 
@@ -42,8 +42,7 @@ Pronto sua aplicação estará  rodando...
 
 ### Para testar
 
-Na raiz do projeto encontra se um diretório tests, dentro dela existem outras dois diretórios (NORMAL E PNEUMONIA), esse diretórios contem as imagems que podem ser utilizadas para testes...
-
+Na raiz do projeto encontra se um diretório tests, dentro dela existem outros dois diretórios (NORMAL E PNEUMONIA), esses diretórios contem as imagens que podem ser utilizadas para testes...
 
 ## Construído com
 
